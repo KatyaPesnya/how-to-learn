@@ -66,7 +66,7 @@
 }
 .logo_place_header {
   height: 32px;
-  background-image: url("../images/logo_place_header.svg");
+  background-image: url('../images/logo_place_header.svg');
   width: 183px;
   position: absolute;
   left: 64px;
@@ -220,7 +220,7 @@
   width: 877px;
   height: 877px;
   z-index: -1;
-  background-image: url("../images/kaufman-triangle.svg");
+  background-image: url('../images/kaufman-triangle.svg');
   background-size: cover;
 }
 /* и элемента с модификатором вида ключ-значение */
@@ -306,5 +306,5 @@
 .logo_place_footer {
   height: 35px;
   width: 183px;
-  background-image: url("../images/logo_place_footer.svg");
+  background-image: url('../images/logo_place_footer.svg');
 }
