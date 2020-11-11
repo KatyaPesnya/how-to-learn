@@ -1,0 +1,9 @@
+.table__cell {
+    width: 250px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+  }
+  .table__cell:nth-of-type(n + 5) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
