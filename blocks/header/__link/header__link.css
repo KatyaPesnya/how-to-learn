@@ -3,7 +3,7 @@
   color: #2f80ed;
   }
 .header__link:hover {
-  color: #32CD32;
-  opacity: 0.5;
-  transition: color 1s 0.5s linear;
+  color: #d41111;
+  opacity: .7;
+  transition: color .2s linear .5s;
   }

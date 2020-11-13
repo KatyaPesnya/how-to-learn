@@ -6,7 +6,7 @@
   font-size: 18px;
 }
 .footer__column-link:hover {
-  color: gray;
-  opacity: 0.5;
-  transition: color 1s linear 0.5s;
+  color:#d41111;
+  opacity: .7;
+  transition: color .2s ease-in .5s;
 }

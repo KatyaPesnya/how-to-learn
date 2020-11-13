@@ -1,4 +1,9 @@
 .resources__logo {
-  width: 270px;
+  max-width: 270px;
   height: 38px;
 }
+.resources__logo:hover{
+  transform: scale(1.5);
+  transition: transform .5s ease-in .5s;
+}
+

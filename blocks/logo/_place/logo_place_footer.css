@@ -1,5 +1,9 @@
 .logo_place_footer {
   height: 35px;
-  width: 183px;
+  max-width: 183px;
   background-image: url("../../../images/logo_place_footer.svg");
+}
+.logo_place_footer:hover{
+  transform: translate(10px,20px);
+  transition: transform .5s ease .5s;
 }

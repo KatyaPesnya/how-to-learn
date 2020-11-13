@@ -9,7 +9,8 @@
   font-weight: normal;
 }
 .feynman__link:hover {
-  color: #32cd32;
-  opacity: 0.5;
-  transition: color 1s linear 0.5s;
+  color: #d41111;
+  opacity: .7;
+  transform: translate(10px);
+  transition: translate .5s linear .5s;
 }

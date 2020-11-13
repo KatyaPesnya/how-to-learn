@@ -3,6 +3,6 @@
   left: 0;
   bottom: 0;
   height: 637px;
-  width: 867px;
+  max-width: 867px;
   z-index: -1;
 }

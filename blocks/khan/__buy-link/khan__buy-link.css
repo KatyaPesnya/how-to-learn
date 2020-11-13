@@ -4,12 +4,10 @@
   font-size: 30px;
   text-decoration: none;
   color: #2f80ed;
-  position: absolute;
-  top: 0;
-  left: 656px;
 }
 .khan__buy-link:hover {
-  color: #32cd32;
-  opacity: 0.5;
-  transition: color 1s 0.5s linear;
+  color: #d41111;
+  opacity: .7;
+  transform: translate(10px);
+  transition: translate .5s linear .5s;
 }
