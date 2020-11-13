@@ -1,8 +1,7 @@
-.cards__image{
-    box-sizing: border-box;
-    width: 160px;
-    height: 160px;
-    border-radius: 60% ;
-    margin: 60px 40px 43px 40px;
-    
+.cards__image {
+  box-sizing: border-box;
+  width: 160px;
+  height: 160px;
+  border-radius: 60%;
+  margin: 60px 40px 43px 40px;
 }

@@ -1,8 +1,7 @@
-
 .two-columns {
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
-    min-width: 784px;
-    margin: auto;
-  }
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  min-width: 784px;
+  margin: auto;
+}
