@@ -1,0 +1,5 @@
+.logo:hover{
+  transform: translate(10px,20px);
+  transition: transform .5s ease .2s;
+}
+

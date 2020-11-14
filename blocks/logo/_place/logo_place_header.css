@@ -6,8 +6,4 @@
   left: 64px;
   top: 30px;
 }
-.logo_place_header:hover{
-  transform: translate(10px,20px);
-  transition: transform .5s ease .5s;
-}
 
