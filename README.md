@@ -1,8 +1,22 @@
-# Научиться учиться
-Проект носит информативный характер.
-В нем описаны способы и техники обучения, также размещены видео, книги и полезные ресурсы для того,чтобы помочь людям заняться тем делом, которое они давно хотели осуществить.
-## Технологии, которые используются для написания: 
-1. Для создания сеток используется flex
-2. Создана Nested файловая структура по БЭМ
-3. Реализована анимация элементов
-4. Используется iframe для вставки видео
+# Проектная работа: *How to learn* Создана в рамках учебы в Яндекс.Практикум на факультете "Веб-разработчик"
+# Описание:
+### *How to learn* - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM.
+[Проектная работа на GitHub Pages](https://katyapesnya.github.io/how-to-learn/)
+
+# Функционал:
+* Анимация и трансформация элементов страницы посредством CSS
+* Секция video с встроенными в страницу видео из Youtube
+# Технологии:
+* Flexbox
+* Positioning Elements
+* Animation and Transform using CSS
+* Iframe
+* BEM Methodology
+* File Structure and File Paths (Nested BEM)
+* Git
+# Брифы:
+* [Бриф №1](https://drive.google.com/file/d/1MVQEdu_WO0-7kq4744u1FAOQgbXyNDcG/view) (Flexbox, Positioning Elements, advanced HTML and CSS)
+* [Бриф №2](https://drive.google.com/file/d/1L2bPH90ytovXdCCHCjMDXTp6iuPrTq3X/view) (Animation and Transform using CSS, Nested БЭМ, iframe)
+# Чеклисты:
+* [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
+* [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
